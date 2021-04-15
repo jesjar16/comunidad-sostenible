@@ -1,0 +1,135 @@
+@media only screen and (max-width: 480px){
+	.banner{
+		width: 100%;
+	}
+
+	.main-image{
+		background-image: url(../img/semilla.jpg);
+		object-fit: cover;
+		width: 100%;
+		height: 400px;
+		background-position: 50% 50%; 
+	}
+
+	p{
+		font-size: 1.5rem; /* 1rem -> 16px*/
+	}
+
+	h2{
+		font-size: 2.1rem;
+	}
+
+	h3{
+		font-size: 1.9rem;
+	}
+
+	h4{
+		font-size: 1.7rem;
+	}
+
+	.metodologia-bg{
+		background-image: url(../img/fondo.jpg);
+		object-fit: cover;
+		width: 100%;
+		height: auto;
+		background-position: 50% 50%; 
+	}
+
+	.social-img{
+		width: 20%;
+	}
+
+	.social-img2{
+		width: 30%;
+	}
+
+	.blog-chevron{
+		width: 20%;
+	}
+
+	.train-img{
+		width: 100%;
+	}
+
+	.height-social{
+		height: 100px;
+	}
+}
+
+@media only screen and (min-width: 481px){
+	.banner{
+		width: 10%;
+	}
+
+	.main-image{
+		background-image: url(../img/semilla.jpg);
+		object-fit: cover;
+		width: 100%;
+		height: 400px;
+		background-position: 50% 50%; 
+	}
+
+	p{
+		font-size: 0.8rem; /* 1rem -> 16px*/
+	}
+
+	h2{
+		font-size: 1.3rem;
+	}
+
+	h3{
+		font-size: 1.1rem;
+	}
+
+	h4{
+		font-size: 0.9rem;
+	}
+
+	.metodologia-bg{
+		background-image: url(../img/fondo.jpg);
+		object-fit: cover;
+		width: 50%;
+		height: auto;
+		background-position: 50% 50%; 
+	}
+
+	.social-img{
+		width: 40px;
+	}
+
+	.social-img2{
+		width: 40px;
+	}
+
+	.train-img{
+		width: 75%;
+	}
+
+	.blog-chevron{
+		width: 60%;
+	}
+
+	.height-social{
+		height: 200px;
+	}
+}
+
+.text-dark-gray{
+	color: #A1928E;
+}
+
+.bold-text{
+	font-weight: bold;
+}
+
+.blog-bg{
+	background-image: url(../img/fondo2.jpg);
+}
+
+.blog-img{
+	width: 100%;
+}
+
+
+
+
